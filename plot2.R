@@ -28,7 +28,7 @@
 ## folder of the repo.
 ## 
 
-## PLOT 1
+## PLOT 2
 
 # libraries
 
